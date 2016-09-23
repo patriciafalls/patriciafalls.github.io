@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@font-face {
+
+			font-family:"Josefin Sans";
+	src:url(fontes/JosefinSans-Regular.ttf) format("truetype");
+}
+
+
+body {
+background-color:WHITE;
+font-family:"Josefin Sans", Helvetica, Arial, sans-serif;
+font-size:12px;
+
+ }
+ 
+ strong{
+	 
+	 font-size:18px;
+	 
+	 }
+
+.social_icons{
+	    display: inline-block;
+    padding-left: 64px;
+    padding-top: 30px;
+	}
+	
+	aside{
+		display:inline-block;
+		position:relative;
+		float:left;
+		width:300px;
+		left:10px;
+		top:10px;
+	
+		}
+		
+		#perfil{
+padding-top:10px;
+			
+position:relative;
+			
+border-radius: 25px;
+			
+border: 1px dotted #D7D7D7;
+			
+width: 250px;
+			
+padding:6px;
+			
+left:30px;
+			}
+			
+				
+	 #perfil p {
+		 
+display:inline-block;
+		 
+width: 160px;
+		 
+padding-left: 6px;
+		 }
+		 
+		 #perfil{
+			 
+		padding-left:20px;	 
+			 }
+		 
+		 .categorias{
+			 
+			 font-size:16px;
+			 text-align:center;
+			  height: 100px;
+ background-color:#fd97b6;
+ width:150px;
+ margin:auto;
+			border-radius: 5px;
+			 }
+		 
+		.categorias a{
+			 text-decoration:none;
+			 
+			
+			 padding:1px;
+			 color:#363636;
+			 }
+		 
+		 
+.myBox {
+width: 320px;
+height: 500px;
+overflow: scroll;  
+margin:auto;
+
+}
+
+#Table_01{
+	margin:auto;
+	}
+
+::-webkit-scrollbar {
+width: 12px;
+height: 12px;
+}
+
+::-webkit-scrollbar-track {
+border: 1px solid white;
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+background: white;  
+border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+background: white;  
+}
+
+
+.art{
+/*	display:inline-block;*/
+	  align-items: center;
+	  padding-bottom:20px;
+	  padding-top:100px;
+	}
+	
+	footer{
+		margin:auto;
+		display:inline-block;
+		color:#6B6B6B;
+		font-size: 1em;
+ 		line-height: 1.3000em; 
+  			
+		}
+		
+		.para{
+			
+			display:inline-block;
+			width:210px;
+			padding-left:21px;
+			
+			}
+			
+			
+			#gato{
+				
+				margin-left:80px;
+				position:fixed;}
+
+#page-wrap {
+ 	text-align: left;
+ 	width: 700px;
+	margin:auto;
+	background-color:white;
+	border-radius: 25px;
+    border: 1px dotted #D7D7D7;
+	
+}
+
+
